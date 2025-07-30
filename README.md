@@ -1,3 +1,1 @@
-### In this I analyzed customer demographics, transactions, and new customer data to provide insights into business
-performance and customer behavior. This project consists of six tasks that involve data cleaning, data analysis, and visualization using
-Excel.
+#### In this I analyzed customer demographics, transactions, and new customer data to provide insights into business performance and customer behavior. This project consists of six tasks that involve data cleaning, data analysis, and visualization using Excel.
